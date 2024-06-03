@@ -7,3 +7,8 @@ Me chamo _Victória Helena_.
 *°* Estou me desenvolvendo nas linguagens _Scratch_ e _JavaScript_.
 
 *°* Ultilizo este espaço para minha organização e compartilhamento dos meus projetos desenvilvidos.
+
+
+
+
+![](https://media1.tenor.com/m/kC5C2jxymcIAAAAC/butterfly-blue.gif)
