@@ -2,7 +2,7 @@
 Me chamo _Victória Helena_.
 
 
-*°* Estou estudando no *Alura* (
+*°* Estou estudando no *Alura* 
 
 *°* Estou me desenvolvendo nas linguagens _Scratch (https://scratch.mit.edu/mystuff/)_ e _JavaScript_.
 
