@@ -6,7 +6,7 @@ Me chamo _Victória Helena_.
 
 *°* Estou me desenvolvendo nas linguagens _Scratch (https://scratch.mit.edu/mystuff/)_ e _JavaScript_.
 
-*°* Ultilizo este espaço para minha organização e compartilhamento dos meus projetos desenvilvidos.
+*°* Ultilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
 
 
